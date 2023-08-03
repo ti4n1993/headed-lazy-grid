@@ -37,15 +37,7 @@ fun Project.configureAndroidProject() {
         compileOptions {
             sourceCompatibility = JavaVersion.VERSION_17
             targetCompatibility = JavaVersion.VERSION_17
-
-            // https://developer.android.com/studio/write/java8-support
-            isCoreLibraryDesugaringEnabled = true
         }
-    }
-
-    dependencies {
-        // https://developer.android.com/studio/write/java8-support
-        "coreLibraryDesugaring"(libs.coreDesugaring)
     }
 }
 
