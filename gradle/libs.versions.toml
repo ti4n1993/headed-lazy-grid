@@ -1,5 +1,5 @@
 [versions]
-agp = "8.2.0-alpha14"
+agp = "8.3.0-alpha01"
 compileSdk = "34"
 targetSdk = "34"
 minSdk = "21"
@@ -7,8 +7,8 @@ minSdk = "21"
 kotlin = "1.9.0"
 kotlinx-coroutines = "1.7.3"
 #Compose
-compose = "1.6.0-alpha02"
-composecompiler = "1.5.1"
+compose = "1.6.0-alpha04"
+composecompiler = "1.5.2"
 #Others
 lifecycle = "2.6.1"
 
