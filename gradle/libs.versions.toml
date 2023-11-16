@@ -24,7 +24,7 @@ kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-c
 kotlinx-coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version.ref = "kotlinx-coroutines" }
 
 #Androidx
-androidx-core = { module = "androidx.core:core-ktx", version = "1.12.1" }
+androidx-core = { module = "androidx.core:core-ktx", version = "1.12.0" }
 androidx-activity-compose = { module = "androidx.activity:activity-compose", version = "1.8.1" }
 androidx-compose-bom = { module = "dev.chrisbanes.compose:compose-bom", version = "2023.12.00-alpha01" } # compose = 1.4.3
 #androidx-compose-bom-chrisbanes = { module = "dev.chrisbanes.compose:compose-bom", version = "2023.04.00-beta01" }
